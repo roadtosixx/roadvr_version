@@ -1,7 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.0",
+  "version": "0.4.0",
   "changelog": [
-    "RoadVr 0.3.0"
+    "Character Studio: create, preview and save the character other players see in games.",
+    "Minigolf: private multiplayer rooms, first-person movement, Adventure and Pro courses, and authoritative ball physics.",
+    "Chess: place a shared 3D board in the world and play against a friend or the computer, with time controls and rematches.",
+    "Game SDK v1: register custom multiplayer games with shared lobbies, invitations, ready checks and saved characters.",
+    "Home screen: arrange apps across pages and choose Studio, Outline or Monochrome icon packs.",
+    "Beat: Expert difficulty, walls, stacks, solo modifiers, pause controls, new tracks and improved charts and scoring.",
+    "Internal cleanup removes unused helpers, redundant state and an unused direct UI dependency.",
+    "Update the complete resource and built NUI together. Retain the server configuration; shared defaults fill missing settings."
   ]
 }
